@@ -1,0 +1,2 @@
+# AfterCoursOnMyOwn
+Django
